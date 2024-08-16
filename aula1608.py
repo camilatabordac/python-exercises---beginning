@@ -7,8 +7,6 @@ print(nome)
 
 # Leia uma string e escreva letra por letra 
 # Leia um nome e escreva apenas as vogais do nome - diga quantas vogais 
-#Leia uma palavra e mostre seu espelho
-
 nome = input('Qual seu nome?')
 vogais = ['a', 'e', 'i', 'o', 'u']
 tamnome = len(nome) # variavel pra somar a string nome
@@ -21,4 +19,3 @@ for vogal in vogais: # para cada vogal na lista vogais
             print(vogal)
         
 
-print(f'O nome {nome} tem {cont} vogais e são elas {vogal}.')
