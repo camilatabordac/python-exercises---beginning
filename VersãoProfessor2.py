@@ -11,4 +11,4 @@ while indice < tam:
         num_vogais = num_vogais +1
     indice += 1 
 
-print(vogais, num_vogais, {100*num_vogais/tam})
+print(f'vogais, num_vogais, {100*num_vogais/tam}%')
