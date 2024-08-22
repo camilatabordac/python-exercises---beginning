@@ -5,8 +5,7 @@ minuto = 0
 segundo = 0
 
 while minuto <= 10:
-    print(f"{minuto}:{segundo:02d}")
-    
+    print(f"{minuto}:{segundo}")
     segundo += 1
     if segundo == 60:
         minuto += 1

@@ -6,7 +6,6 @@
 
 print('-Seja Bem-Vindo!')
 
-
 maior_salario = -1
 menor_salario = 0
 soma_salarios = 0

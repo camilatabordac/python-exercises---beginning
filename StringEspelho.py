@@ -1,3 +1,5 @@
+#Leia uma palavra e mostre seu espelho
+
 string = input('Digite algo: ')
 stringinvertida = ''
 ultimoindice = len(string) - 1 #pra pegar a ultima letra da palavra 
